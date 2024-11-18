@@ -1,0 +1,41 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: First Test Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-06 15:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: wcpdomain"
+
+#. Author of the plugin
+msgid "eris"
+msgstr ""
+
+#. Name of the plugin
+msgid "First Test Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Test plugin."
+msgstr ""
+
+#: my-test-plugin.php:46
+msgid "There are"
+msgstr ""
+
+#: my-test-plugin.php:128
+msgid "Word Count"
+msgstr ""
+
+#: my-test-plugin.php:46
+msgid "words in this post"
+msgstr ""
